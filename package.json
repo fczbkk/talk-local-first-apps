@@ -1,0 +1,15 @@
+{
+  "name": "@fczbkk/local-first-apps",
+  "version": "1.0.0",
+  "description": "Slides for presentation about Local First Apps",
+  "scripts": {
+    "build": "marp slides.md -o slides.html"
+  },
+  "keywords": [],
+  "author": "Riki Fridrich <riki@fczbkk.com> (https://fczbkk.com/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@marp-team/marp-cli": "^2.5.0"
+  }
+}
