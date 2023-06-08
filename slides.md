@@ -1,8 +1,8 @@
-# Local First Apps
+![bg](riki-and-dan.jpg)
 
 ---
 
-![bg](riki-and-dan.jpg)
+# Local First Apps
 
 ---
 
